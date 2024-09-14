@@ -30,7 +30,6 @@ from fsspec import filesystem
 
 fs = filesystem('local')
 man = fsman(fs)
-man.explore()
 
 # get state of manager when it exited
 man.path
