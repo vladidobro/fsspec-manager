@@ -38,4 +38,4 @@ man.cwd
 man.ls
 ```
 
-To launch a IPython repl from the manager, press 'w'.
+To launch a IPython REPL from the manager, press 'w'.
